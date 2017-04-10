@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace TelerikWinFormsApp1
 {
-    public partial class RadForm1 : Telerik.WinControls.UI.RadForm
+    public partial class main_form : Telerik.WinControls.UI.RadForm
     {
-        public RadForm1()
+        public main_form()
         {
             InitializeComponent();
         }
