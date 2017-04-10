@@ -73,6 +73,16 @@ namespace TelerikWinFormsApp1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Close12 {
+            get {
+                object obj = ResourceManager.GetObject("Close12", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap logo {
             get {
                 object obj = ResourceManager.GetObject("logo", resourceCulture);
@@ -133,9 +143,29 @@ namespace TelerikWinFormsApp1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Главное_окно_программы_3 {
+            get {
+                object obj = ResourceManager.GetObject("Главное-окно-программы-3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Главное_окно_программы1 {
             get {
                 object obj = ResourceManager.GetObject("Главное-окно-программы1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Монитор {
+            get {
+                object obj = ResourceManager.GetObject("Монитор", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -15,5 +15,10 @@ namespace TelerikWinFormsApp1
         {
             InitializeComponent();
         }
+
+        private void radButton3_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
